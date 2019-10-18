@@ -1,0 +1,8 @@
+E:\C#代码\knnForms\knnForms\bin\Debug\knnForms.exe
+E:\C#代码\knnForms\knnForms\bin\Debug\knnForms.pdb
+E:\C#代码\knnForms\knnForms\obj\Debug\knnForms.csprojResolveAssemblyReference.cache
+E:\C#代码\knnForms\knnForms\obj\Debug\knnForms.Form1.resources
+E:\C#代码\knnForms\knnForms\obj\Debug\knnForms.Properties.Resources.resources
+E:\C#代码\knnForms\knnForms\obj\Debug\knnForms.csproj.GenerateResource.Cache
+E:\C#代码\knnForms\knnForms\obj\Debug\knnForms.exe
+E:\C#代码\knnForms\knnForms\obj\Debug\knnForms.pdb
